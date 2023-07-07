@@ -99,9 +99,15 @@
     padding-inline-start: 20px;
 }
 
-.post-content li {
+.post-content li{
     margin-top: 5px;
 }
+
+
+.post-content ul {
+    margin-bottom: 0;
+}
+
 
 .post-content li p {
     margin-bottom: 0;
